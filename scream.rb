@@ -3,5 +3,5 @@ def scream(words)
 	puts words
 end
 
-puts scream("Yippeee")    # 1 Output will be "Yippeee!!!!"
-													# Still returns nil
+puts scream("Yippeee")    # 1: Output will be "Yippeee!!!!"
+													# 2: Still returns nil
